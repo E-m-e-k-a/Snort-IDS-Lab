@@ -1,3 +1,5 @@
+Part of my SOC Analyst portfolio (https://github.com/E-m-e-k-a/SOC-Analyst-Portfolio)
+
 # Snort-IDS-Lab
 Hands-on Snort IDS rule writing and network traffic analysis lab
 # Snort IDS Practical Lab
